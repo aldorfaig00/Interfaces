@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tILjO8NIRCNudYSRRFDnjYzsD2kjDYUR1cTGNXYU67kPTAzuTpWvLXgnpDZJuBq+bNfFM4xghEtVCqboLT61Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aldor\\Desktop\\NAMVUE_2hf\\NAMVUE_Interfesz_hazi\\NAMVUE_Interfesz_hazi\\NAMVUE_Interfesz_hazi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

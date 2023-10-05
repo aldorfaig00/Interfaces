@@ -1,0 +1,15 @@
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.exe
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.deps.json
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.runtimeconfig.json
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.runtimeconfig.dev.json
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.dll
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\bin\Debug\net5.0\NAMVUE_Interfesz_hazi.pdb
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.AssemblyInfoInputs.cache
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.AssemblyInfo.cs
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.csproj.CoreCompileInputs.cache
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.dll
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\refint\NAMVUE_Interfesz_hazi.dll
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.pdb
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\NAMVUE_Interfesz_hazi.genruntimeconfig.cache
+C:\Users\aldor\Desktop\NAMVUE_2hf\NAMVUE_Interfesz_hazi\NAMVUE_Interfesz_hazi\obj\Debug\net5.0\ref\NAMVUE_Interfesz_hazi.dll
